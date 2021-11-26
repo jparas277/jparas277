@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h2>I am </h2>
 </div>
 <div align="center" width="50">
-<img src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/fire.gif" alt="Jayash"/>
+<img src="https://github.com/jparas277/jparas277/blob/main/text.gif" alt="Paras"/>
     
 </div>
     

@@ -43,7 +43,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: But you have to keep *Living It* 🏆
 
 <br>
-<a href="mailto:jayashrsy@gmail.com">Say Hi!</a>    
+<a href="mailto:jparas277@gmail.com">Say Hi!</a>    
 <br><br>
     
 **Languages and Tools** 
@@ -78,7 +78,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <div align="center">
     
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JayashRSY's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Paras Github Stats">
     
 <br>
 <br>
